@@ -4,8 +4,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/imageedit_2_3081039324"
-        android:label="@string/app_name"
+        android:icon="@drawable/imageedit_2_4862048052"
+        android:label="Ideal Village"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity android:name=".MainActivity">
